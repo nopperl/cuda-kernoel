@@ -1,0 +1,4 @@
+wurlitzer
+torchvision==0.15.2
+jupyterlab
+matplotlib

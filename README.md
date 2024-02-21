@@ -1,2 +1,3 @@
-# cuda-kernoel
-CUDA Kernöl
+# CUDA Kernöl
+
+CUDA kernels for fun and profit.
