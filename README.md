@@ -1,3 +1,3 @@
-# CUDA Kernöl
+# Kernels
 
-CUDA kernels for fun and profit.
+CUDA/Triton kernels for fun and profit.
